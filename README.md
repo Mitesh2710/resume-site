@@ -25,13 +25,11 @@ It is fully editable in the browser and saves changes using `localStorage`.
 ## 📂 Project Structure
 
 <pre>
-```
 resume-site/
 ├── index.html
 ├── style.css
 ├── script.js
 └── README.md
-```
 </pre>
 
 
